@@ -4,7 +4,7 @@ Análise exploratória dos atributos base dos Pokémon mais usados no cenário c
 
 ## Integrantes
 
-| Nome | RA |
+| Nome |
 |---|---|
 | Gabbriel Vicente Hiroshi Nagano |
 | Gustavo de Paiva Beraldo |
