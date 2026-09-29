@@ -4,12 +4,12 @@ Análise exploratória dos atributos base dos Pokémon mais usados no cenário c
 
 ## Integrantes
 
-| Nome |
+| Nome | RA |
 |---|---|
-| Gabbriel Vicente Hiroshi Nagano |
-| Gustavo de Paiva Beraldo |
-| Nicole Siqueira Borges |
-| Rodrigo Piaza Ribeiro |
+| Gabbriel Vicente Hiroshi Nagano | 24005804 |
+| Gustavo de Paiva Beraldo | 23027668 |
+| Nicole Siqueira Borges | 24013977 |
+| Rodrigo Piaza Ribeiro | 24003397 |
 
 ## Dataset
 
